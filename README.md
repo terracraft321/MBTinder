@@ -1,6 +1,6 @@
 # MBTinder
 
-A tinder clone for those who are into MBTI.
+A tinder clone for those who are into MBTI. A full stack application, build using React, MongoDB,
 
 Create URI = 'mongodb'
 as a .env file
