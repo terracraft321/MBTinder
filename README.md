@@ -2,6 +2,8 @@
 
 A tinder clone for those who are into MBTI. A full stack application, build using React, NodeJS and MongoDB.
 
+Packages wise: BCrypt, passwords are hashed.
+
 Create URI = 'mongodb' to access the database (Node)
 as a .env file
 
